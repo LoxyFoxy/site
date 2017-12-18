@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+}
+.imag{
+    width: 100%;
+    
+}
+body{
+
+    background-image: url(../Backgrounds_Program_code_background_098930_.png);
+}
+.im{
+    margin-top:20px;
+}
+.bac{
+    z-index:3;
+}
+.ima{
+   
+    width: 100%;
+}
+.fd{
+    height: 300px;
+    width: 100px;
+}
